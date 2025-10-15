@@ -1,18 +1,17 @@
-# 📘 Hướng dẫn đóng góp – Khóa học miễn phí làm chủ lập trình web (phiên bản dùng Python)
+# 📘 Hướng dẫn đóng góp – Khóa học miễn phí làm chủ ngôn ngữ lập trình Python
 
-Cảm ơn bạn đã quan tâm đến việc đóng góp cho dự án! Chúng tôi rất hoan nghênh mọi sự hỗ trợ từ cộng đồng để cùng nhau xây dựng một khóa học chất lượng, miễn phí và dễ tiếp cận cho mọi người muốn làm chủ lập trình web.
+Cảm ơn bạn đã quan tâm đến việc đóng góp cho dự án! Chúng tôi rất hoan nghênh mọi sự hỗ trợ từ cộng đồng để cùng nhau xây dựng một khóa học chất lượng, miễn phí và dễ tiếp cận cho mọi người muốn làm chủ lập trình web.biết 
 
 # 🚀 Mục tiêu dự án
 
-Dự án này nhằm tạo ra một khóa học hoàn chỉnh, miễn phí, giúp người học từ cơ bản đến nâng cao có thể làm chủ các công nghệ lập trình web như HTML, CSS, JavaScript, và các framework phổ biến.
-
+Dự án này nhằm tạo ra một khóa học hoàn chỉnh, miễn phí, giúp người học từ cơ bản đến nâng cao có thể làm chủ các công nghệ lập trình hiểu biết về ngôn ngữ Python
 ---
 
 #🧠 Những cách bạn có thể đóng góp
 
 Bạn có thể tham gia đóng góp theo nhiều hình thức:
 
--✍️ Viết nội dung bài học (Markdown hoặc HTML)
+-✍️ Viết nội dung bài học 
 
 -🧪 Tạo bài tập thực hành hoặc quiz
 
@@ -31,10 +30,10 @@ khoa-hoc-lap-trinh-web/
 ├── README.md
 ├── CONTRIBUTING.md
 ├── bai-hoc/
-│   ├── html/
-│   ├── css/
-│   ├── javascript/
-│   └── framework/
+│   ├── Giới thiệu vầ Python/
+│   ├── In ra mặt hình/
+│   ├── Các kiểu dữ liệu/
+│   └── Vòng lặplặp/
 ├── bai-tap/
 ├── tai-nguyen/
 └── feedback/
@@ -42,7 +41,7 @@ khoa-hoc-lap-trinh-web/
 
 ---
 
-## 📝 Quy trình đóng góp (chuyển sang Python)
+## 📝 Quy trình đóng góp
 1. **Fork** dự án về tài khoản của bạn
 2. **Clone** repository về máy:
    ```bash
@@ -55,7 +54,7 @@ khoa-hoc-lap-trinh-web/
 4. Thực hiện chỉnh sửa hoặc thêm nội dung
 5. Commit thay đổi:
    ```bash
-   git commit -m "Thêm bài học về CSS Flexbox"
+   git commit -m "Thêm bài học về PythonPython"
    ```
 6. Push lên GitHub:
    ```bash
