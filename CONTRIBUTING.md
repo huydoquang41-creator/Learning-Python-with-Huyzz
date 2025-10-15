@@ -24,7 +24,9 @@ Bạn có thể tham gia đóng góp theo nhiều hình thức:
 
 -🧪 Kiểm thử nội dung và phản hồi trải nghiệm người học
 
--📂 Cấu trúc thư mục
+## 📂 Cấu trúc thư mục
+
+```
 khoa-hoc-lap-trinh-web/
 ├── README.md
 ├── CONTRIBUTING.md
@@ -36,6 +38,9 @@ khoa-hoc-lap-trinh-web/
 ├── bai-tap/
 ├── tai-nguyen/
 └── feedback/
+```
+
+---
 
 ## 📝 Quy trình đóng góp (chuyển sang Python)
 1. **Fork** dự án về tài khoản của bạn
